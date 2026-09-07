@@ -1,0 +1,10 @@
+{
+  "config": {
+    "stockAtualKg": 7008.8,
+    "tearesAtivos": 8,
+    "kgPorTearDia": 80,
+    "horizonteDias": 75,
+    "updatedAt": null
+  },
+  "compras": []
+}
